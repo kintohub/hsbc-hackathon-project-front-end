@@ -34,7 +34,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "connected-react-router": "4.5.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-redux": "5.1.1",
